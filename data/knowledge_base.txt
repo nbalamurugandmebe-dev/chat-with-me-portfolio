@@ -1,0 +1,62 @@
+﻿PORTFOLIO KNOWLEDGE BASE — VALARMATHI O
+
+WEBSITE
+https://valarmathi.vercel.app/
+
+ABOUT
+Valarmathi O is a practicing advocate and BA LLB law graduate interested in artificial intelligence, machine learning, branding, marketing, and website development. Her portfolio describes a combination of analytical thinking, legal research, technology, and creativity.
+
+SKILLS
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Branding
+- WhatsApp Marketing
+- Website Development
+- Data Analysis
+- Scikit-learn
+- Natural Language Processing
+- Automation
+- Data Visualization
+- UI/UX
+
+EDUCATION
+Bachelor of Arts and Bachelor of Law (BA LLB). The portfolio describes a foundation in legal research, analysis, and structured reasoning. The institution name is not provided.
+
+PROJECTS
+1. Customer Churn Prediction
+A Python machine learning model that predicts which customers may leave. Technologies listed: Python, Scikit-learn, and Data Analysis.
+
+2. AI Content Assistant
+An AI-powered tool for generating and refining marketing content. Technologies listed: AI, NLP, and Automation.
+
+3. Brand Identity System
+A brand identity project covering logo, colors, typography, and brand voice. Technologies listed: Branding, Design, and Strategy.
+
+4. WhatsApp Growth Campaign
+A conversational WhatsApp marketing funnel designed to improve engagement and repeat purchases. Technologies listed: WhatsApp, Marketing, and Funnels.
+
+5. Business Portfolio Website
+A responsive website designed to showcase business services and capture leads. Technologies listed: Web, Responsive Design, and UI/UX.
+Portfolio website: https://valarmathi.vercel.app/
+
+6. Sales Insights Dashboard
+An interactive dashboard that turns sales data into actionable insights. Technologies listed: Python, Data Visualization, and Analytics.
+
+EXPERIENCE
+- Practicing Advocate: legal practice, client advice, legal document drafting, research, and representation.
+- Freelance AI & Web Developer: machine learning solutions, website development, branding, and WhatsApp marketing projects.
+- Machine Learning & AI Practitioner: Python models, AI applications, automation, and data insights.
+- Brand & WhatsApp Marketing Specialist: brand identities and conversational marketing campaigns.
+
+CONTACT
+Website: https://valarmathi.vercel.app/
+Phone: +91 80566 07989
+Email, LinkedIn, and GitHub links are not listed in the supplied portfolio data.
+
+ASSISTANT RULES
+- Answer portfolio questions using only the information recorded here and in profile.json.
+- Never invent qualifications, institutions, dates, client names, achievements, metrics, or project links.
+- If a detail is not available, say that it is not listed in the supplied portfolio.
+- Clearly distinguish project descriptions from independently verified results.
+- Answer in the language requested by the visitor, or use the language of their question.

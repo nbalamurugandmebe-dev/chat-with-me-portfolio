@@ -1,0 +1,93 @@
+{
+  "name": "Valarmathi O",
+  "headline": "Practicing Advocate | AI & Machine Learning | Branding & Web Development",
+  "about": "I am Valarmathi O, a practicing advocate and BA LLB law graduate with an interest in artificial intelligence, machine learning, branding, marketing, and website development. I combine analytical thinking with creativity to build useful digital experiences.",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Branding",
+    "WhatsApp Marketing",
+    "Website Development",
+    "Data Analysis",
+    "Scikit-learn",
+    "Natural Language Processing",
+    "Automation",
+    "Data Visualization",
+    "UI/UX"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts and Bachelor of Law (BA LLB)",
+      "institution": "",
+      "description": "Law graduate with a foundation in legal research, analysis, and structured reasoning."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Churn Prediction",
+      "description": "A Python machine learning model that predicts which customers may leave, helping businesses identify retention opportunities.",
+      "technologies": ["Python", "Scikit-learn", "Data Analysis"],
+      "url": ""
+    },
+    {
+      "name": "AI Content Assistant",
+      "description": "An AI-powered tool for generating and refining marketing content.",
+      "technologies": ["AI", "NLP", "Automation"],
+      "url": ""
+    },
+    {
+      "name": "Brand Identity System",
+      "description": "A brand identity concept covering logo, colors, typography, and brand voice.",
+      "technologies": ["Branding", "Design", "Strategy"],
+      "url": ""
+    },
+    {
+      "name": "WhatsApp Growth Campaign",
+      "description": "A conversational WhatsApp marketing funnel designed to improve engagement and repeat purchases.",
+      "technologies": ["WhatsApp", "Marketing", "Funnels"],
+      "url": ""
+    },
+    {
+      "name": "Business Portfolio Website",
+      "description": "A responsive website designed to showcase business services and capture leads.",
+      "technologies": ["Web Development", "Responsive Design", "UI/UX"],
+      "url": "https://valarmathi.vercel.app/"
+    },
+    {
+      "name": "Sales Insights Dashboard",
+      "description": "An interactive dashboard for turning sales data into actionable insights.",
+      "technologies": ["Python", "Data Visualization", "Analytics"],
+      "url": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Practicing Advocate",
+      "organization": "Legal Practice",
+      "description": "Legal practice involving client advice, legal document drafting, research, and representation."
+    },
+    {
+      "role": "Freelance AI & Web Developer",
+      "organization": "Independent",
+      "description": "Developing machine learning solutions and websites, and working on branding and WhatsApp marketing projects."
+    },
+    {
+      "role": "Machine Learning & AI Practitioner",
+      "organization": "Self-driven and Client Work",
+      "description": "Working with Python models and AI applications for automation and data insights."
+    },
+    {
+      "role": "Brand & WhatsApp Marketing Specialist",
+      "organization": "Client Engagements",
+      "description": "Working on brand identities and conversational marketing campaigns."
+    }
+  ],
+  "contact": {
+    "email": "",
+    "phone": "+91 80566 07989",
+    "linkedin": "",
+    "github": "",
+    "website": "https://valarmathi.vercel.app/"
+  }
+}
